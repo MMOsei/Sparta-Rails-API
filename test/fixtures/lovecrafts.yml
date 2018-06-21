@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  deity: MyString
+  tome: MyString
+  location: MyString
+  word: MyString
+  sentence: MyString
+
+two:
+  deity: MyString
+  tome: MyString
+  location: MyString
+  word: MyString
+  sentence: MyString

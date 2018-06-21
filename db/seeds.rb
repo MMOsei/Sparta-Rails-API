@@ -10,3 +10,7 @@
 5.times do
   Caffeine.create(blend_name: Faker::Coffee.blend_name, origin: Faker::Coffee.origin, variety: Faker::Coffee.variety, notes: Faker::Coffee.notes)
 end
+
+5.times do
+  Lovecraft.create(deity: Faker::Lovecraft.deity, tome: Faker::Lovecraft.tome, location: Faker::Lovecraft.location, word: Faker::Lovecraft.word, sentence: Faker::Lovecraft.sentence)
+end

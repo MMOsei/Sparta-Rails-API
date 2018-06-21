@@ -1,0 +1,2 @@
+class Lovecraft < ApplicationRecord
+end
